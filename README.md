@@ -1,7 +1,7 @@
 # 🌿 ФитоДомик
 
 <div align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=500&size=40&pause=1000&color=2EA44F&center=true&vCenter=true&random=false&width=1000&height=300&lines=Слава+Домнин+%7C+Главный+инженер;Изразцов+Илья+%7C+Главный+технолог-механик;Представляют+проект;ФИТОДОМИК" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=50&size=40&pause=1000&color=2EA44F&center=true&vCenter=true&random=false&width=1000&height=300&lines=Слава+Домнин+%7C+Главный+инженер;Изразцов+Илья+%7C+Главный+технолог-механик;Представляют+проект;ФитоДомик" alt="Typing SVG" />
 </div>
 
 ## 🌱 О проекте
