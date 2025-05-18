@@ -34,14 +34,14 @@
 
 <div align="center">
   <a href="https://t.me/FitoDomik">
-    <img src="https://img.shields.io/badge/💬_Telegram_Чат-2CA5E0?style=for-the-badge&logo=telegram&logoColor=white&labelColor=2CA5E0&color=white&width=250&height=50" alt="Telegram Chat"/>
+    <img src="https://img.shields.io/badge/💬_Telegram_Чат-2CA5E0?style=for-the-badge&logo=telegram&logoColor=white&labelColor=2CA5E0&color=white&width=300&height=60" alt="Telegram Chat"/>
   </a>
-  <br><br>
+  &nbsp;&nbsp;&nbsp;&nbsp;
   <a href="https://t.me/FitoDomik_429">
-    <img src="https://img.shields.io/badge/📢_Telegram_Канал-2CA5E0?style=for-the-badge&logo=telegram&logoColor=white&labelColor=2CA5E0&color=white&width=250&height=50" alt="Telegram Channel"/>
+    <img src="https://img.shields.io/badge/📢_Telegram_Канал-2CA5E0?style=for-the-badge&logo=telegram&logoColor=white&labelColor=2CA5E0&color=white&width=300&height=60" alt="Telegram Channel"/>
   </a>
-  <br><br>
+  &nbsp;&nbsp;&nbsp;&nbsp;
   <a href="https://farm429.ru">
-    <img src="https://img.shields.io/badge/🌿_Сайт_ФитоДомик-2EA44F?style=for-the-badge&logo=leaf&logoColor=white&labelColor=2EA44F&color=white&width=250&height=50" alt="FitoDomik Website"/>
+    <img src="https://img.shields.io/badge/🌿_Сайт_ФитоДомик-2EA44F?style=for-the-badge&logo=leaf&logoColor=white&labelColor=2EA44F&color=white&width=300&height=60" alt="FitoDomik Website"/>
   </a>
 </div>
