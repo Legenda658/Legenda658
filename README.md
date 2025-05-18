@@ -1,5 +1,7 @@
+# 🌿 ФитоДомик
+
 <div align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=500&size=40&pause=1000&color=2EA44F&center=true&vCenter=true&random=false&width=600&height=100&lines=Слава+%7C+Разработчик;ФитоДомик+%7C+Умный+сад" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=500&size=40&pause=1000&color=2EA44F&center=true&vCenter=true&random=false&width=600&height=100&lines=Слава+Домнин+%26+Илья+Изразцов;Представляем+проект+ФитоДомик" alt="Typing SVG" />
 </div>
 
 ## 🌱 О проекте
@@ -32,16 +34,18 @@
   </table>
 </div>
 
-## 🔗 Связаться со мной
+## 🔗 Связаться с нами
 
 <div align="center">
   <a href="https://t.me/FitoDomik">
-    <img src="https://img.shields.io/badge/Telegram_Чат-2CA5E0?style=for-the-badge&logo=telegram&logoColor=white" alt="Telegram Chat"/>
+    <img src="https://img.shields.io/badge/💬_Telegram_Чат-2CA5E0?style=for-the-badge&logo=telegram&logoColor=white&labelColor=2CA5E0&color=white&width=250&height=50" alt="Telegram Chat"/>
   </a>
+  <br><br>
   <a href="https://t.me/FitoDomik_429">
-    <img src="https://img.shields.io/badge/Telegram_Канал-2CA5E0?style=for-the-badge&logo=telegram&logoColor=white" alt="Telegram Channel"/>
+    <img src="https://img.shields.io/badge/📢_Telegram_Канал-2CA5E0?style=for-the-badge&logo=telegram&logoColor=white&labelColor=2CA5E0&color=white&width=250&height=50" alt="Telegram Channel"/>
   </a>
+  <br><br>
   <a href="https://farm429.ru">
-    <img src="https://img.shields.io/badge/🌿_ФитоДомик-2EA44F?style=for-the-badge&logo=leaf&logoColor=white" alt="FitoDomik Website"/>
+    <img src="https://img.shields.io/badge/🌿_Сайт_ФитоДомик-2EA44F?style=for-the-badge&logo=leaf&logoColor=white&labelColor=2EA44F&color=white&width=250&height=50" alt="FitoDomik Website"/>
   </a>
 </div>
