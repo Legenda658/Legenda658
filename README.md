@@ -41,7 +41,7 @@
     <img src="https://img.shields.io/badge/📢_Telegram_Канал-2CA5E0?style=for-the-badge&logo=telegram&logoColor=white&labelColor=2CA5E0&color=white&width=300&height=60" alt="Telegram Channel"/>
   </a>
   &nbsp;&nbsp;&nbsp;&nbsp;
-  <a href="https://farm429.ru">
+  <a href="https://fitodomik.ru">
     <img src="https://img.shields.io/badge/🌿_Сайт_ФитоДомик-2EA44F?style=for-the-badge&logo=leaf&logoColor=white&labelColor=2EA44F&color=white&width=300&height=60" alt="FitoDomik Website"/>
   </a>
 </div>
