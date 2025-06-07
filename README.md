@@ -26,15 +26,6 @@
 
 <p align="left"></p>
 
-###
-
-<div align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=Legenda658&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=5&theme=dracula&hide_border=true&order=2" height="150" alt="languages graph"  />
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=Legenda658&radius=16&theme=react&area=false&order=5&hide_border=true" height="300" alt="activity-graph graph"  />
-</div>
-
-###
-
 <div align="center">
   <table>
     <tr>
@@ -76,4 +67,8 @@
   <a href="https://fitodomik.ru">
     <img src="https://img.shields.io/badge/🌿_Сайт_ФитоДомик-2EA44F?style=for-the-badge&logo=leaf&logoColor=white&labelColor=2EA44F&color=white&width=300&height=60" alt="FitoDomik Website"/>
   </a>
+</div>
+
+<div align="center">
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=Legenda658&radius=16&theme=react&area=false&order=5&hide_border=true" height="300" alt="activity-graph graph"  />
 </div>
