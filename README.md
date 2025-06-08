@@ -3,7 +3,6 @@
 </div>
 <p align="left"></p>
 <p align="left"></p>
-<p align="left"></p>
 <div align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=Legenda658&hide_title=true&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=dark&locale=en&hide_border=true&order=1" height="150" alt="stats graph"  />
   <img src="https://github-readme-stats.vercel.app/api/top-langs?username=Legenda658&locale=en&hide_title=true&layout=compact&card_width=320&langs_count=5&theme=dark&hide_border=true&order=2" height="150" alt="languages graph"  />
@@ -50,6 +49,8 @@
     <img src="https://img.shields.io/badge/🌿_Сайт_ФитоДомик-2EA44F?style=for-the-badge&logo=leaf&logoColor=white&labelColor=2EA44F&color=white&width=300&height=60" alt="FitoDomik Website"/>
   </a>
 </div>
+<p align="left"></p>
+<p align="left"></p>
 <div align="center">
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/php/php-original.svg" height="73" alt="php logo"  />
   <img width="40" />
