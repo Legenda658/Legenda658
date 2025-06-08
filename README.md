@@ -66,3 +66,19 @@
   <img width="40" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" height="73" alt="mysql logo"  />
 </div>
+
+
+
+
+
+
+
+<p align="left"></p>
+
+###
+
+<div align="center">
+  <img src="https://streak-stats.demolab.com?user=Legenda658&locale=en&mode=daily&theme=dracula&hide_border=false&border_radius=5&order=3" height="150" alt="streak graph"  />
+</div>
+
+###
