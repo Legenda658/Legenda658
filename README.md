@@ -6,7 +6,6 @@
   <img src="https://github-readme-stats.vercel.app/api?username=Legenda658&hide_title=true&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=dark&locale=en&hide_border=true&order=1" height="150" alt="stats graph"  />
   <img src="https://github-readme-stats.vercel.app/api/top-langs?username=Legenda658&locale=en&hide_title=true&layout=compact&card_width=320&langs_count=5&theme=dark&hide_border=true&order=2" height="150" alt="languages graph"  />
   <img src="https://github-readme-activity-graph.vercel.app/graph?username=Legenda658&radius=16&theme=nord&area=true&order=5&hide_border=true&hide_title=true&bg_color=0D1117&color=C9D1D9&line=2EA44F&area_color=2EA44F&point=59eb15" height="300" alt="activity-graph graph"  />
-  <img src="https://streak-stats.demolab.com?user=Legenda658&locale=en&mode=daily&theme=dracula&hide_border=false&border_radius=5&order=3" height="150" alt="streak graph"  />
   <img src="https://github-profile-trophy.vercel.app?username=Legenda658&theme=dracula&column=-1&row=1&margin-w=8&margin-h=8&no-bg=false&no-frame=false&order=4" height="150" alt="trophy graph"  />
 </div>
 
