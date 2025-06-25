@@ -1,9 +1,5 @@
 <div align="center">
   <img src="https://capsule-render.vercel.app/api?type=waving&color=0:2EA44F,50:4CAF50,100:8BC34A&height=180&section=header&text=🌱%20ФитоДомик%20🏠&fontSize=50&fontColor=fff&animation=fadeIn&fontAlignY=40&desc=Умный%20дом%20для%20ваших%20растений&descAlignY=65&descSize=20" />
-</div>
-<div align="center">
-    <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=500&size=45&pause=1000&color=2EA44F&center=true&vCenter=true&random=false&width=1000&height=100&lines=Домнин+Вячеслав;Изразцов+Илья;Представляют+проект;ФитоДомик" alt="Typing SVG" />
-</div>
 <div align="center">
 <p align="left"></p>
 <div align="center">
