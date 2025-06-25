@@ -11,9 +11,6 @@
   <img src="https://capsule-render.vercel.app/api?type=slice&color=0:2EA44F,100:4CAF50&height=20" />
 </div>
 <div align="center">
-  <img src="https://capsule-render.vercel.app/api?type=transparent&color=gradient&customColorList=6&height=40&section=divider&text=🛠️%20Мои%20технологии&fontSize=25&fontColor=2EA44F" />
-</div>
-<div align="center">
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/php/php-original.svg" height="73" alt="php logo"  />
   <img width="40" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" height="73" alt="python logo"  />
